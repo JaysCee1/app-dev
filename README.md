@@ -2,7 +2,7 @@
 My first repository
 
 ### |**MY FAVORITE SERIES**|
-1. ==The Eminence of Shadow== : follows the story of Cid Kageno, a young boy with aspirations to rule the world from the shadows.
+1. == The Eminence of Shadow == : follows the story of Cid Kageno, a young boy with aspirations to rule the world from the shadows.
 2. ==The Rising of the Shield Hero== : A gamer is magically summoned into a parallel universe, where he is chosen as one of four heroes destined to save the world from its prophesied doom.
 3. ==Spy X Family== : A spy on an undercover mission gets married and adopts a child as part of his cover.
 4. ==Rurouni Kenshin: Meiji Kenkaku Romantan== : tells the story of Kenshin as he strives to save those in need of saving.
